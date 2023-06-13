@@ -17,8 +17,10 @@ source <虚拟环境目录>/bin/activate
 source myenv/bin/activate
 ```
 3. 安装包和运行代码
+
 在激活虚拟环境后，可以使用 pip 安装包，并使用 python 运行代码。所有的安装和运行操作都将在当前激活的虚拟环境中进行。
-1. 退出虚拟环境
+
+4. 退出虚拟环境
 ```
 deactivate
 ```
