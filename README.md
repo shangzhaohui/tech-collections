@@ -4,3 +4,5 @@
 ## 用法大全
 * [venv 用法](documents/venv用法.md)
 * [常用命令](documents/常用命令.md)
+##AIGC相关
+* [BLEU和Rouge简介](documents/BLEU和ROUGE简介.md)
