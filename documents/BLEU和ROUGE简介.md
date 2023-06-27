@@ -10,9 +10,13 @@
 
 ##  BLEU 
 [机器翻译评价指标之BLEU详细计算过程](https://blog.csdn.net/guolindonggld/article/details/56966200)
+
 [实践答疑｜如何计算BLEU值？](https://www.163.com/dy/article/HICUO0TT0553237G.html)
+
 [BLEU算法（例子和公式解释）](https://blog.csdn.net/qq_30232405/article/details/104219396)
+
 [机器翻译评价指标 — BLEU算法](https://www.cnblogs.com/jiangxinyang/p/10523585.html)
+
 - Modified n-gram Precision计算
 ![](media/16872478209330/16872610183846.jpg)
 
